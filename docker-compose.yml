@@ -1,6 +1,6 @@
 services:
   3x-ui:
-    image: ghcr.io/mhsanaei/3x-ui:latest
+    image: ghcr.io/mhsanaei/3x-ui:2.9.4
     container_name: 3x-ui
     hostname: 3x-ui
     cap_add:
